@@ -1,0 +1,45 @@
+.newsbutton {
+    margin-left: 50px;
+}
+
+
+.newsbutton_inner {
+    border-radius: 0px;
+    background-color: $colour-special;
+    color: $colour-headings;
+}
+
+.newsbutton_inner_active {
+    border-radius: 0px;
+    color: $colour-special;
+    background-color: $colour-headings;
+}
+
+.newsbutton .newsbutton_inner:hover {
+    background-color: $colour-headings;
+    color: $colour-special
+}
+
+.inner_searchform {
+    border: 0px;
+}
+
+.searchform_button {
+    margin-left: -15px;
+    border-top-right-radius: 8px;
+    border-bottom-right-radius: 8px;
+    border-top-left-radius: 0px;
+    border-bottom-left-radius: 0px;
+    border: 0px;
+    background-color: $colour-headings;
+}
+
+.button_more {
+    width: 100%;
+    background-color: $colour-headings;
+}
+
+.button_more:hover {
+    background-color: $colour-secondary;
+    color: $colour-special
+}

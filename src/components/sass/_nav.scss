@@ -1,0 +1,8 @@
+.navbar__item {
+    color: $colour-primary;
+}
+
+.navbar__item:hover {
+    background-color: $colour-special;
+    color: $colour-primary;
+}

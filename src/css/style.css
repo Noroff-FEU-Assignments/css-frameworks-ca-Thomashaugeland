@@ -1,0 +1,145 @@
+body {
+  background-color: #ECECEC;
+  font-family: Leto;
+}
+
+.navbar__item {
+  color: #0A0A0A;
+}
+
+.navbar__item:hover {
+  background-color: #ffffff;
+  color: #0A0A0A;
+}
+
+h1 {
+  font-family: Playfair;
+  color: #E92569;
+  font-size: 34px;
+  margin-left: 50px;
+  margin-right: 50px;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+h2 {
+  margin-left: 30px;
+  color: #0A0A0A;
+  font-size: 20px;
+}
+
+h3 {
+  margin-left: 30px;
+  font-family: Playfair;
+  font-style: italic;
+  font-weight: bold;
+  color: #E92569;
+  font-size: 20px;
+  margin-bottom: -20px;
+  margin-right: 50px;
+}
+
+h4 {
+  font-family: Lato;
+  font-size: 19px;
+  color: #E92569;
+}
+
+h5 {
+  font-family: Lato;
+  font-size: 20px;
+  color: #0A0A0A;
+}
+
+p {
+  color: #767676;
+  font-family: Leto;
+  font-size: 18px;
+}
+
+.homeparagraph {
+  margin-left: 50px;
+}
+
+.newsbutton {
+  margin-left: 50px;
+}
+
+.newsbutton_inner {
+  border-radius: 0px;
+  background-color: #ffffff;
+  color: #E92569;
+}
+
+.newsbutton_inner_active {
+  border-radius: 0px;
+  color: #ffffff;
+  background-color: #E92569;
+}
+
+.newsbutton .newsbutton_inner:hover {
+  background-color: #E92569;
+  color: #ffffff;
+}
+
+.inner_searchform {
+  border: 0px;
+}
+
+.searchform_button {
+  margin-left: -15px;
+  border-top-right-radius: 8px;
+  border-bottom-right-radius: 8px;
+  border-top-left-radius: 0px;
+  border-bottom-left-radius: 0px;
+  border: 0px;
+  background-color: #E92569;
+}
+
+.button_more {
+  width: 100%;
+  background-color: #E92569;
+}
+
+.button_more:hover {
+  background-color: #767676;
+  color: #ffffff;
+}
+
+.footerbar {
+  background-color: white;
+  margin-top: 100px;
+}
+
+.card_size {
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+.form_element {
+  max-width: 50%;
+  background-color: 0;
+  margin-bottom: 80px;
+  margin-top: 30px;
+}
+
+.contact_card_element {
+  background-color: #ECECEC;
+}
+
+.social_icon {
+  float: left;
+  margin: 0 15px 0 0;
+}
+
+.tab_element {
+  width: 80%;
+  background-color: #ffffff;
+}
+
+.tab_image {
+  margin-top: 30px;
+  margin-bottom: 30px;
+  margin-left: 30px;
+  margin-right: 30px;
+}/*# sourceMappingURL=style.css.map */

@@ -1,0 +1,48 @@
+h1 {
+    font-family: Playfair;
+    color: $colour-headings;
+    font-size: 34px;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+h2 {
+    margin-left: 30px;
+    color: $colour-primary;
+    font-size: 20px;
+}
+
+h3 {
+    margin-left: 30px;
+    font-family: Playfair;
+    font-style: italic;
+    font-weight: bold;
+    color: $colour-headings;
+    font-size: 20px;
+    margin-bottom: -20px;
+    margin-right: 50px;
+}
+
+h4 {
+    font-family: Lato;
+    font-size: 19px;
+    color: $colour-headings;
+}
+
+h5 {
+    font-family: Lato;
+    font-size: 20px;
+    color: $colour-primary
+}
+
+p {
+    color: $colour-secondary;
+    font-family: Leto;
+    font-size: 18px;
+}
+
+.homeparagraph {
+    margin-left: 50px;
+}

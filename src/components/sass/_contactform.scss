@@ -1,0 +1,16 @@
+.form_element {
+    max-width: 50%;
+    background-color: green($color: #000000);
+    margin-bottom: 80px;
+    margin-top: 30px;
+}
+
+.contact_card_element {
+
+    background-color: $colour-background;
+}
+
+.social_icon {
+    float: left;
+    margin: 0 15px 0 0;
+}
